@@ -43,7 +43,7 @@ Web crawler of Histock(Taiwan Stock) using Python
 ![image](https://user-images.githubusercontent.com/49243751/110233981-d317b180-7f62-11eb-8941-c4b9a6278931.png)
 
 ## Step :
-### 1. 下載HiStock_Crawler.py, HiStock_Crawler
+### 1. 下載HiStock_Crawler.py, HiStock_Crawler.bat
 
 ### 2. 改bat檔路徑
 
@@ -54,3 +54,6 @@ Web crawler of Histock(Taiwan Stock) using Python
 
 ### 4. 把寄件人gmail之安全性調低
 ![image](https://user-images.githubusercontent.com/49243751/110234273-82a15380-7f64-11eb-909c-12563331dd62.png)
+
+### 5. 執行 HiStock_Crawler.bat
+![image](https://user-images.githubusercontent.com/49243751/110234322-d318b100-7f64-11eb-8e61-b1504fbf0d85.png)
