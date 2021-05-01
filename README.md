@@ -59,8 +59,9 @@ Web crawler of Histock(Taiwan Stock) using Python
 ![image](https://user-images.githubusercontent.com/49243751/110234322-d318b100-7f64-11eb-8e61-b1504fbf0d85.png)
 
 ## V2 Change Log : 
-### 1. 爬蟲加入爬取技術指標(MA、KD、RSI、MACD、OSC) 
+### 1. 爬蟲加入爬取技術指標(MA、KD、RSI、MACD、OSC)
 ### 2. 加入站上均線、三大法人、成值選股策略
-### 3. 加入Line Message 提醒 
+### 3. 加入Line Message 提醒
 ### 4. Excel存入指定資料夾
 ### 5. 加入輸出 LOG 機制
+### 6. Git Clone至本機(2021/05/01)
